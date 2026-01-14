@@ -28,5 +28,5 @@ Statistical Techniques: Correlation analysis, Chi-square test
 
 Data Preprocessing: Handling null values, encoding categorical variables
 
-Visualization: Boxplots, Bar charts, Line plots
+Visualization: Boxplots, Bar charts, Line plots.
 
